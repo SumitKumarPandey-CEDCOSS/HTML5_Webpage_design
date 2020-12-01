@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+}
+header{
+    background-color: #0D0B0B;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+}
+#logo {
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+}
+span#five{
+    color: #FF5733;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    padding-left: 3px;
+}
+#nav{
+    background-color: #736F6F;
+    overflow: hidden;
+    padding: 10px;
+}
+#nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    border-right-style: solid;
+    border-color: black;
+}
+.content {
+    height: 200px;
+    background-color: #E7E0DF;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+.outer {
+    padding: 30px 15px 15px 20px; 
+}
+.pics {
+    float: left;
+    margin-right: 10px;
+}
+.heading {
+    width: 900px;
+}
+.line {
+    padding: 10px
+}
+.line1 {
+    padding:15px
+}
+#sidebar {
+    float: right;
+    display: block;
+    width: 400px;
+    background-color: #BAB3B1;
+    height: 570px;
+    padding: 15px;
+}
+#sidenav {
+    padding: 15px;
+    
+}
+.text {
+    padding: 15px;
+}
+#sidenav a{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #D35400 ;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn {
+    padding-top: 15px;
+}
+.btn a {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #D35400 ;
+}
+#sidebar {
+    padding-top: 20px;
+}
+#sidebar span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #0A0808;
+}
+#side{
+    padding: 15px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: grey;
+    font-weight: bold;
+}
+#side2 {
+    padding:15px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: grey;
+    font-weight: bold;
+
+}
+.line1 {
+    padding: 10px;
+}
+footer {
+    background-color: #0D0B0B;
+    font-size: 15px;
+    text-align: center;
+    height: 25px;
+    color: white;
+    padding-top: 15px;
+    margin: 0;
+}
+#foot {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #D35400 
+}
+#heading h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
